@@ -1,15 +1,15 @@
-# JieBao sports
+# XueYuanYuan
 
-JieBao sports is dedicated to promoting professional and cool outdoor sports equipment, so that people can efficiently purchase the best outdoor sports equipment in their daily life. We launch outdoor sports equipment not only cool appearance, high quality, and very professional, you can fully enjoy the fun of outdoor sports equipment.
+XueyuanYuan is committed to promoting professional and high-quality skiing equipment, so that people can efficiently buy the best skiing equipment in their daily life.
 
-- Our app shows a full range of outdoor sports equipment, including sports gear, roller skating equipment, skiing equipment, skateboard equipment, outdoor running equipment and other outdoor sports equipment. These categories of complete outdoor sports equipment can meet the user's selection and procurement.
+- We launch ski sports equipment not only good shape, high quality, and very professional, you can fully enjoy the fun of skiing.
 
-- Our app has classified these outdoor extreme sports equipment in great detail, which helps users to quickly find the outdoor sports equipment they want to buy.
+- Our app shows a full range of skiing equipment, including skis, ski protective gear, ski helmet, ski gloves, ski goggles and other skiing equipment. These categories of complete skiing equipment can meet the user's selection and procurement.
 
-- Our app also has the commodity collection function. You can add your favorite outdoor extreme sports equipment to the collection list, so that you can browse and place orders next time.
+- Our app has classified these skiing equipment in great detail, which helps users to quickly find the skiing equipment they want to buy.
 
-- Our APP introduces each product in detail, so that you can fully understand these products, find your favorite outdoor sports equipment, and facilitate you to purchase and place orders.
+- Our app also has the commodity collection function. You can add your favorite ski sports equipment to the collection list for your next browsing and placing orders.
 
-Keep moving forward. Sports make life more exciting
+- Our aPP introduces each product in detail, so that you can fully understand these products, find your favorite ski sports equipment, and facilitate you to purchase and place orders.
 
 If you have any questions, please contact us as follows :pqkw80335ukh@sina.com
