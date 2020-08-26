@@ -1,15 +1,13 @@
-# XueYuanYuan
+# YouXiDaQuan
+YouXiDaQuan is committed to promoting the classic mini-games of the post-80s and post-90s generation, so that people can efficiently buy the most classic nostalgic game consoles in their daily life, so that users can play the classic games of their childhood. At the same time, we also have the function of community discussion, so that users can share the fun of playing games when they were young, exchange small game tricks and experience.
 
-XueyuanYuan is committed to promoting professional and high-quality skiing equipment, so that people can efficiently buy the best skiing equipment in their daily life.
+Our app showcases a full range of classic and nostalgic game consoles, including handheld game consoles, Tetris, plug-in card games, kk desktop, PSP and other post-80s classic games consoles. There are thousands of classic nostalgic games in these classic game consoles, let you regain your childhood memories, happy games.
 
-- We launch ski sports equipment not only good shape, high quality, and very professional, you can fully enjoy the fun of skiing.
+Our app has classified these classic nostalgic game consoles in great detail, which helps users to quickly find the classic nostalgic game consoles they want to buy.
 
-- Our app shows a full range of skiing equipment, including skis, ski protective gear, ski helmet, ski gloves, ski goggles and other skiing equipment. These categories of complete skiing equipment can meet the user's selection and procurement.
+Our APP introduces each product in detail, so that you can fully understand these products, find your favorite classic nostalgic game consoles, convenient for you to purchase and place orders. At the same time, our app also has the commodity collection function. You can collect your favorite classic nostalgic game consoles into the collection list, so that you can browse and place orders next time.
 
-- Our app has classified these skiing equipment in great detail, which helps users to quickly find the skiing equipment they want to buy.
+Classic nostalgic game console and 1000 classic games, let you return to childhood is not a dream!
 
-- Our app also has the commodity collection function. You can add your favorite ski sports equipment to the collection list for your next browsing and placing orders.
 
-- Our aPP introduces each product in detail, so that you can fully understand these products, find your favorite ski sports equipment, and facilitate you to purchase and place orders.
-
-If you have any questions, please contact us as follows :pqkw80335ukh@sina.com
+If you have any questions, please contact us as follows :injianzao994839@163.com
