@@ -8,4 +8,4 @@ Our APP introduces each product in detail, so that you can fully understand thes
 
 Cool esg peripheral stationery happy learning good assistant!
 
-If you have any questions, please contact us as follows :lei341615@icloud.com 
+If you have any questions, please contact us as follows :mizhuigushi752@163.com
