@@ -1,11 +1,13 @@
 # JingJiBao
 
-JingJiBao is committed to promoting cool and practical esports peripheral stationery, so that people can efficiently and high-quality buy esports peripheral stationery with excellent quality in their daily life.
+JingJiBao is committed to promoting popular, comfortable and high-end esports entertainment venues in Chengdu, so that people can effectively and high-quality book their favorite esports venues in their daily life.
 
-Our APP shows a full range of esports stationery surrounding, including esports diary, esports writing pen, esports water cup, esports pen box, esports pen bag and other esports stationery surrounding. Our APP has classified these esports stationery in great detail, which helps users to quickly find the stationery around esports they want to buy.
+Our app is a booking platform for esports entertainment venues. Our e-sports entertainment venues are clean and comfortable, with high equipment configuration and strong e-sports atmosphere. We have displayed various e-sports entertainment venues, including Internet cafes, Internet cafes, e-sports venues, e-sports apartments, e-sports home party venues, mobile game e-sports venues and so on. These full range of esports venues can meet the user's selection and reservation.
 
-Our APP introduces each product in detail, so that you can fully understand these products, find your favorite esports stationery, convenient for you to buy and place an order. At the same time, our app also has the function of commodity collection, you can collect your favorite esports stationery around the collection list, convenient for you to browse and place an order next time.
+Our app provides a very detailed taxonomy of these esports venues to help users quickly locate the esports entertainment venues they want to book.
 
-Cool esg peripheral stationery happy learning good assistant!
+Our APP also has the collection function of e-sports venues. You can put your favorite esports entertainment places can be collected in the collection list, convenient for you to place an order next time.
 
-If you have any questions, please contact us as follows :mizhuigushi752@163.com
+You can book the most comfortable esports entertainment venues in our app
+
+If you have any questions, please contact us as follows : eaym08771@sina.com
