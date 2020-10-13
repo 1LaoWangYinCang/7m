@@ -10,4 +10,4 @@ Our APP also has the collection function of e-sports venues. You can put your fa
 
 You can book the most comfortable esports entertainment venues in our app
 
-If you have any questions, please contact us as follows : eaym08771@sina.com
+If you have any questions, please contact us as follows : gtmok3@163.com
