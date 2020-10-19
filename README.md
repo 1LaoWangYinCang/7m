@@ -1,13 +1,16 @@
-# JingJiBao
+# SuBiFenGaoShou
+SuBiFenGaoShou is a record the score, learning skiing skills, buy ski equipment of APP, it promotes high quality professional skiing gear, so that people can buy high quality and efficiency in daily life the best skiing gear, at the same time also can record ski racing game, learning skiing skills, let you become a master of skiing.
 
-JingJiBao is committed to promoting popular, comfortable and high-end esports entertainment venues in Chengdu, so that people can effectively and high-quality book their favorite esports venues in their daily life.
+Our app classifies these skiing equipment in great detail, including skis, ski protective gear, ski helmet, ski gloves, ski goggles, ski suits and other skiing equipment. These categories of complete ski sports equipment can meet the user's selection and procurement.
 
-Our app is a booking platform for esports entertainment venues. Our e-sports entertainment venues are clean and comfortable, with high equipment configuration and strong e-sports atmosphere. We have displayed various e-sports entertainment venues, including Internet cafes, Internet cafes, e-sports venues, e-sports apartments, e-sports home party venues, mobile game e-sports venues and so on. These full range of esports venues can meet the user's selection and reservation.
+[Skills] Our app also introduces the sports skills and rules of skiing, so that skiing enthusiasts can know more about this skiing sport and improve their personal skiing skills.
 
-Our app provides a very detailed taxonomy of these esports venues to help users quickly locate the esports entertainment venues they want to book.
+[Score] Our app can record the scores of skiing competitions, record the details and results of each competition, and share the results of each competition to others, sharing the joy of victory.
 
-Our APP also has the collection function of e-sports venues. You can put your favorite esports entertainment places can be collected in the collection list, convenient for you to place an order next time.
+[Product Details] Our APP introduces each product in detail, so that you can fully understand these products, find your favorite ski sports equipment, and facilitate you to purchase and place orders.
 
-You can book the most comfortable esports entertainment venues in our app
+[Product Collection] Our app also has the function of commodity collection, you can collect your favorite ski sports equipment into the collection list, so that you can browse and place orders next time.
 
-If you have any questions, please contact us as follows : gtmok3@163.com
+Record live competitions, learn skiing skills, buy professional equipment, let you become a ski master!
+
+If you have any questions, please contact us as follows : lafazxc@icloud.com
