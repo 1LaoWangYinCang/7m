@@ -1,6 +1,6 @@
-# SuBiFenDaShi
+# JiuZhouTiYu
 
-SuBiFenDaShi is a record the score, learning skiing skills, buy ski equipment of APP, it promotes high quality professional skiing gear, so that people can buy high quality and efficiency in daily life the best skiing gear, at the same time also can record ski racing game, learning skiing skills, let you become a master of skiing.
+JiuZhouTiYu is a record the score, learning skiing skills, buy ski equipment of APP, it promotes high quality professional skiing gear, so that people can buy high quality and efficiency in daily life the best skiing gear, at the same time also can record ski racing game, learning skiing skills, let you become a master of skiing.
 
 Our app classifies these skiing equipment in great detail, including skis, ski protective gear, ski helmet, ski gloves, ski goggles, ski suits and other skiing equipment. These categories of complete ski sports equipment can meet the user's selection and procurement.
 
@@ -14,4 +14,4 @@ Our APP introduces each product in detail, so that you can fully understand thes
 
 Record live competitions, learn skiing skills, buy professional equipment, let you become a ski master!
 
-If you have any questions, please contact us as follows : vplr15@163.com 
+If you have any questions, please contact us as follows : sgmb68@163.com
