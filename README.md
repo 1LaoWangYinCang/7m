@@ -1,17 +1,13 @@
-# JiuZhouTiYu
+# BaoBiFenGaoShou
 
-JiuZhouTiYu is a record the score, learning skiing skills, buy ski equipment of APP, it promotes high quality professional skiing gear, so that people can buy high quality and efficiency in daily life the best skiing gear, at the same time also can record ski racing game, learning skiing skills, let you become a master of skiing.
+BaoBiFenGaoShou is a record figure skating competition, learn knowledge of figure skating, figure skating equipment purchase the app, it promotes figure skating movement, so that people can buy in our daily life to figure skating equipment, professional learning to detailed knowledge of figure skating, can easily record the game situation.
 
-Our app classifies these skiing equipment in great detail, including skis, ski protective gear, ski helmet, ski gloves, ski goggles, ski suits and other skiing equipment. These categories of complete ski sports equipment can meet the user's selection and procurement.
+Our app has a live score recording function. You can record the scores and details of the live matches, record every figure skating match you like, and share the results of these matches and record every match. Make good memories.
 
-Our app also introduces the sports skills and rules of skiing, so that skiing enthusiasts can know more about this skiing sport and improve their personal skiing skills.
+There is also a figure skating knowledge page in our app, where we show all kinds of guide tips and knowledge points of figure skating, so that you can know more about figure skating, understand the competition of figure skating, improve your sports skills, and make you more like figure skating.
 
- Our app can record the scores of skiing competitions, record the details and results of each competition, and share the results of each competition to others, sharing the joy of victory.
+Our app also showcases a full range of figure skating gear, including skates, training suits, bags and protective gear. These categories of complete figure skating equipment can meet the user's choice and purchase.
 
-Our APP introduces each product in detail, so that you can fully understand these products, find your favorite ski sports equipment, and facilitate you to purchase and place orders.
+The ice arena is so interesting. The top skaters come together!
 
- Our app also has the function of commodity collection, you can collect your favorite ski sports equipment into the collection list, so that you can browse and place orders next time.
-
-Record live competitions, learn skiing skills, buy professional equipment, let you become a ski master!
-
-If you have any questions, please contact us as follows : sgmb68@163.com
+If you have any questions, please contact us as follows : wcy19940828@icloud.com
