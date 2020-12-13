@@ -1,13 +1,13 @@
-# BaoBiFenGaoShou
+# BTC Latest News
 
-BaoBiFenGaoShou is a record figure skating competition, learn knowledge of figure skating, figure skating equipment purchase the app, it promotes figure skating movement, so that people can buy in our daily life to figure skating equipment, professional learning to detailed knowledge of figure skating, can easily record the game situation.
+BTC Latest News is committed to promoting digital currency related information, including the latest bitcoin news, digital currency common sense, news of events in the circle, industry information and other information in the circle. It has all kinds of hot information.
 
-Our app has a live score recording function. You can record the scores and details of the live matches, record every figure skating match you like, and share the results of these matches and record every match. Make good memories.
+1. Our app can let digital currency enthusiasts get the latest digital currency news in time, and can comment and like to share your favorite news information.
 
-There is also a figure skating knowledge page in our app, where we show all kinds of guide tips and knowledge points of figure skating, so that you can know more about figure skating, understand the competition of figure skating, improve your sports skills, and make you more like figure skating.
+2. Our app also has the function of topic circle discussion to express our own opinions and opinions and strengthen the communication within the circle.
 
-Our app also showcases a full range of figure skating gear, including skates, training suits, bags and protective gear. These categories of complete figure skating equipment can meet the user's choice and purchase.
+3. Our app can also enable users to obtain real-time market information of various digital currencies and better understand the market changes.
 
-The ice arena is so interesting. The top skaters come together!
+4. Our app can easily Book professional lectures on digital currency, so as to have a deeper understanding of digital currency.
 
-If you have any questions, please contact us as follows : wcy19940828@icloud.com
+If you have any questions, please contact us as follows : mctetagdq@hotmail.com
