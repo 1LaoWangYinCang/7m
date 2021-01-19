@@ -1,6 +1,6 @@
-# BTC Latest News
+# Digital News Analysis Area
 
-BTC Latest News is committed to promoting digital currency related information, including the latest bitcoin news, digital currency common sense, news of events in the circle, industry information and other information in the circle. It has all kinds of hot information.
+Digital News Analysis Area is committed to promoting digital currency related information, including the latest bitcoin news, digital currency common sense, news of events in the circle, industry information and other information in the circle. It has all kinds of hot information.
 
 1. Our app can let digital currency enthusiasts get the latest digital currency news in time, and can comment and like to share your favorite news information.
 
@@ -10,4 +10,4 @@ BTC Latest News is committed to promoting digital currency related information, 
 
 4. Our app can easily Book professional lectures on digital currency, so as to have a deeper understanding of digital currency.
 
-If you have any questions, please contact us as follows : mctetagdq@hotmail.com
+If you have any questions, please contact us as follows : tapeighfphbb@hotmail.com
